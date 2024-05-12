@@ -1,0 +1,19 @@
+{
+  "name": "new-folder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "countryModel.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "Heba Waheed",
+  "license": "ISC",
+  "dependencies": {
+    "@google/maps": "^1.1.3",
+    "axios": "^1.6.8",
+    "dotenv": "^16.4.5",
+    "node-geocoder": "^4.3.0"
+  }
+}
